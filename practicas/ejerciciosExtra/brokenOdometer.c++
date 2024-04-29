@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
+
 using namespace std;
+
 int main(){
     int n;
     while(cin>>n && n!>>-1){
@@ -7,10 +9,10 @@ int main(){
         int startTime = 0;
         int result = 0;
         for(int i = 0; i<n; i++){
-        cin>>speed>>elapsed;
-        int currentTime = elapsed - startTime;
-        result +=speed * currentTime;
-        startTime = elapsed;
+            cin>>speed>>elapsed;
+            int currentTime = elapsed - startTime;
+            result +=speed * currentTime;
+            startTime = elapsed;
         }
         cout <<result<<"miles"<<endl;
     }

@@ -1,1 +1,1 @@
-hola, buenas noches
+En la materia de Algoritmica 1 veremos un varios temas interesantes, que en su mayoría tienen una gran relación con la programación competitiva. Para ello, tenemos que ver en qué consiste y cuales son los puntos clave para tener un buen desempeño en cualquier competencia, como: eficiencia y eficacia.
