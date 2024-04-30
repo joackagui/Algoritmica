@@ -7,7 +7,7 @@
 En este segundo parcial pudimos apreciar un tema muy importante y fundamental para el almacenamiento y administracion correcta y eficaz de las estructuras de datos. Es por esto que vimos cuáles son los distintos tipos de estructuras de datos y pudimos aprecias sus respectivos metodos (acciones) para poder hacer interaccion con la misma. 
 
 
-# **Índice**   
+# **Índice**  
 1. [Estrutura de datos](#id1)
    
    1.1 [Arreglo](#id2)
