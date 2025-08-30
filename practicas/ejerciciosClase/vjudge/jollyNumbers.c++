@@ -46,5 +46,5 @@ int main(){
     } else {
         cout<<"Not jolly"<<endl;
     }
-    return 0;
+    return 0;
 }

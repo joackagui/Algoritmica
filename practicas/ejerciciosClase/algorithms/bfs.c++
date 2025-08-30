@@ -30,7 +30,6 @@ void bfs (int initialNode) {
     }
 }
 
-
 int main() {
     input;
     output;

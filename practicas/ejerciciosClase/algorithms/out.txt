@@ -1,0 +1,2 @@
+Maximum value that can be obtained: 85
+Selected items: 4 6 7 
